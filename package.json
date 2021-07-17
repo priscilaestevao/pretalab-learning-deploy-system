@@ -1,0 +1,22 @@
+{
+  "name": "pretalab-learning-deploy-system",
+  "version": "1.0.0",
+  "description": "Aplicação de conhecimentos sobre Cultura DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priscilaestevao/pretalab-learning-deploy-system.git"
+  },
+  "author": "Priscila Estevão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priscilaestevao/pretalab-learning-deploy-system/issues"
+  },
+  "homepage": "https://github.com/priscilaestevao/pretalab-learning-deploy-system#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
